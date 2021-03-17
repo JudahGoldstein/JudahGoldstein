@@ -3,7 +3,7 @@ I'm a first year Comp-Sec student at York University
 Working on building up this GitHub to something I can be a bit more proud of
 ---
 **What I'm currently learning on my own time (not at university):**
-- How to do more web automation tasks with script injection so expect some more user scripts in the coming months.
+- How to do more web automation tasks with script injection so expect some more user scripts in the future.
 - Automating Linux tasks with Ansible.
 - Learning the basics of cluster computing with Kubernetes for a Raspberry Pi compute cluster.
  
