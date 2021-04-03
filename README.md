@@ -23,3 +23,4 @@ Working on building up this GitHub to something I can be a bit more proud of
 ![JudahGoldstein's GitHub stats](https://github-readme-stats.vercel.app/api?username=JudahGoldstein&show_icons=true&theme=dark)   
 ^ Not sure why this says A+, im a C- at best (≖_≖ )
 ---
+ <script src="https://tryhackme.com/badge/261602"></script>
