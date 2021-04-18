@@ -15,7 +15,7 @@ Working on building up this GitHub to something I can be a bit more proud of
 
 **Some stuff I still want to learn:**
  - Reverse engineering viruses.
- - Study for and get some security certs (studying for security+ at the moment).
+ - Study for and get some security certs (studying for A+ at the moment).
  - Learn a more advanced Metasploit workflow.
  - Making web extensions for Firefox/Chromium.
  - I'd like to learn more database stuff outside of SQL and MongoDB.
