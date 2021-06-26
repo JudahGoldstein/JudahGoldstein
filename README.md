@@ -14,7 +14,7 @@ Working on building up this GitHub to something I can be a bit more proud of
 - Write a machine learning project from scratch with no ML libraries.
 
 **Some stuff I still want to learn:**
- - Reverse engineering viruses.
+ - Reverse engineering malware.
  - Study for and get some security certs (studying for A+ at the moment).
  - Learn a more advanced Metasploit workflow.
  - Making web extensions for Firefox/Chromium.
