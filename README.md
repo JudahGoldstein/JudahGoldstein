@@ -1,5 +1,5 @@
 
-I'm a first year Comp-Sec student at York University  
+I'm a second year Comp-Sec student at York University  
 Working on building up this GitHub to something I can be a bit more proud of
 ---
 **What I'm currently learning on my own time (not at university):**
