@@ -3,9 +3,11 @@ I'm a second year Comp-Sec student at York University
 Working on building up this GitHub to something I can be a bit more proud of
 ---
 **What I'm currently learning on my own time (not at university):**
-- My main project at the moment is writing a companion suite for the TTRPG Delta Green consisting of an API (hosted by the GM) and web clients for the players.
+- My main project at the moment is writing a companion suite for the TTRPG Delta Green consisting of an API (hosted by the GM) and web clients for the players to centralize all the game data.
 - How to do more web automation tasks with script injection.
- 
+- Working on optomizing by keyboard layout for coding as I move to more minimalist designs (34 keys coming soon).
+- Learning Toki Pona (ISO designation "tok") and developing a stenography system for the language. 
+
 **Future project ideas:**
 - My main area of interest is security, although at my proficiency  writing custom security software is outside my wheelhouse, but it's definitely something I'll be looking into in the future, maybe automating some of my workflow for CTFs and writing reports?
 - Start automating more of my daily life, the deeper I delve into automation the more I realize I'm doing things that I could just automate.
