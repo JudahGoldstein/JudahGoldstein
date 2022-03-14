@@ -5,7 +5,7 @@ Working on building up this GitHub to something I can be a bit more proud of
 **What I'm currently learning on my own time (not at university):**
 - My main project at the moment is writing a companion suite for the TTRPG Delta Green consisting of an API (hosted by the GM) and web clients for the players to centralize all the game data.
 - How to do more web automation tasks with script injection.
-- Working on optomizing by keyboard layout for coding as I move to more minimalist designs (34 keys coming soon).
+- Working on optomizing my keyboard layout for coding as I move to more minimalist designs (34 keys coming soon).
 - Learning Toki Pona (ISO designation "tok") and developing a stenography system for the language. 
 
 **Future project ideas:**
@@ -13,6 +13,7 @@ Working on building up this GitHub to something I can be a bit more proud of
 - Start automating more of my daily life, the deeper I delve into automation the more I realize I'm doing things that I could just automate.
 - Get an app or two written, just for the experience.
 - Write a machine learning project from scratch with no ML libraries.
+- Learning 3D printing skills to use as part of my custom keyboard workflow (no matter how much I love low profile bare pcb designs).
 
 **Some stuff I still want to learn:**
  - Reverse engineering malware.
