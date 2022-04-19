@@ -20,7 +20,7 @@ Working on building up this GitHub to something I can be a bit more proud of
  - Study for and get some security certs (studying for Sec+ at the moment, A+ already studied for, just need to actually take the test).
  - Learn a more advanced Metasploit workflow.
  - Making web extensions for Firefox/Vivaldi (Google killed Chromium 🥲).
- - I'd like to learn more database stuff outside of SQL and MongoDB. (update: my MongoDB skills are pretty good now, moving on to SQL)
+ - I'd like to learn more database stuff outside of SQL and MongoDB.
  - Automating Linux tasks with Ansible.
 ---
 ![JudahGoldstein's GitHub stats](https://github-readme-stats.vercel.app/api?username=JudahGoldstein&show_icons=true&theme=dark)   
