@@ -1,11 +1,11 @@
 
-I'm a second year Comp-Sec student at York University  
+I'm a third year Comp-Sec student at York University  
 Working on building up this GitHub to something I can be a bit more proud of
 ---
 **What I'm currently learning on my own time (not at university):**
 - My main project at the moment is writing a companion suite for the TTRPG Delta Green consisting of an API (hosted by the GM) and web clients for the players to centralize all the game data.
+- Making NPC websites for Delta Green for ARG style games
 - How to do more web automation tasks with script injection.
-- Working on optomizing my keyboard layout for coding as I move to more minimalist designs (34 keys coming soon).
 - Learning Toki Pona (ISO designation "tok") and developing a stenography system for the language. 
 
 **Future project ideas:**
