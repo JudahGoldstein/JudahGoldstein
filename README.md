@@ -1,5 +1,4 @@
-I'm a fourth (more like 3.5th) year Comp-Sec student at York University  
-Working on building up this GitHub to something I can be a bit more proud of
+I'm a fourth (more like 3.5th) year Comp-Sec student at York University, Working on building up this GitHub to something I can be a bit more proud of
 ---
 **What I'm currently learning on my own time (not at university):**
 - How to do more web automation tasks with script injection.
@@ -19,7 +18,3 @@ Working on building up this GitHub to something I can be a bit more proud of
  - Making web extensions for Firefox/Vivaldi (Google killed Chromium 🥲).
  - I'd like to learn more database stuff outside of SQL and MongoDB.
  - Automating Linux tasks with Ansible.
----
-![JudahGoldstein's GitHub stats](https://github-readme-stats.vercel.app/api?username=JudahGoldstein&show_icons=true&theme=dark)   
-^ Not sure why this says A+, im a C on my best day (≖_≖ )
----
