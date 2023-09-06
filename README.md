@@ -1,4 +1,3 @@
-
 I'm a fourth (more like 3.5th) year Comp-Sec student at York University  
 Working on building up this GitHub to something I can be a bit more proud of
 ---
