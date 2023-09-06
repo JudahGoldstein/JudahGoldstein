@@ -1,10 +1,8 @@
 
-I'm a third year Comp-Sec student at York University  
+I'm a fourth (more like 3.5th) year Comp-Sec student at York University  
 Working on building up this GitHub to something I can be a bit more proud of
 ---
 **What I'm currently learning on my own time (not at university):**
-- My main project at the moment is writing a companion suite for the TTRPG Delta Green consisting of an API (hosted by the GM) and web clients for the players to centralize all the game data.
-- Making NPC websites for Delta Green for ARG style games
 - How to do more web automation tasks with script injection.
 - Learning Toki Pona (ISO designation "tok") and developing a stenography system for the language. 
 
@@ -24,5 +22,5 @@ Working on building up this GitHub to something I can be a bit more proud of
  - Automating Linux tasks with Ansible.
 ---
 ![JudahGoldstein's GitHub stats](https://github-readme-stats.vercel.app/api?username=JudahGoldstein&show_icons=true&theme=dark)   
-^ Not sure why this says A+, im a C- at best (≖_≖ )
+^ Not sure why this says A+, im a C on my best day (≖_≖ )
 ---
