@@ -15,6 +15,6 @@ I'm a fourth (more like 3.5th) year Comp-Sec student at York University, Working
  - Reverse engineering malware.
  - Study for and get some security certs (studying for Sec+ at the moment, A+ already studied for, just need to actually take the test).
  - Learn a more advanced Metasploit workflow.
- - Making web extensions for Firefox/Vivaldi (Google killed Chromium 🥲).
+ - Making web extensions for Firefox.
  - I'd like to learn more database stuff outside of SQL and MongoDB.
  - Automating Linux tasks with Ansible.
