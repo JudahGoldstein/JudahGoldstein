@@ -1,7 +1,7 @@
 I'm a fourth (more like 3.5th) year Comp-Sec student at York University, Working on building up this GitHub to something I can be a bit more proud of
 ---
 **What I'm currently learning on my own time (not at university):**
-- How to do more web automation tasks with script injection.
+- Developing an IaC system with ansible for home server use
 - Learning Toki Pona (ISO designation "tok") and developing a stenography system for the language. 
 
 **Future project ideas:**
@@ -13,8 +13,7 @@ I'm a fourth (more like 3.5th) year Comp-Sec student at York University, Working
 
 **Some stuff I still want to learn:**
  - Reverse engineering malware.
- - Study for and get some security certs (studying for Sec+ at the moment, A+ already studied for, just need to actually take the test).
+ - Study for and get some security certs (studying for Sec+ at the moment, just need to actually take the test).
  - Learn a more advanced Metasploit workflow.
  - Making web extensions for Firefox.
  - I'd like to learn more database stuff outside of SQL and MongoDB.
- - Automating Linux tasks with Ansible.
