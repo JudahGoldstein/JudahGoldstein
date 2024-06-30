@@ -1,4 +1,4 @@
-I'm a fourth (more like 3.5th) year Comp-Sec student at York University, Working on building up this GitHub to something I can be a bit more proud of
+I'm a fourth year Comp-Sec student at York University, Working on building up this GitHub to something I can be a bit more proud of
 ---
 **What I'm currently learning on my own time (not at university):**
 - ~~Developing an IaC system with ansible for home server use.~~ Decided to switch to Nix for an IaC project. 
