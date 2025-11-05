@@ -1,10 +1,5 @@
 I'm a newly graduated Comp-Sec student from York University, Working on building up this GitHub to something I can be a bit more proud of
 ---
-**What I'm currently learning on my own time (not at university):**
-- ~~Developing an IaC system with ansible for home server use.~~ Decided to switch to Nix for an IaC project. 
-- Learning Toki Pona (ISO designation "tok") and developing a stenography system for the language. 
-- ~~Do more capture the flag events. Trying to do one a week over the summer.~~ done, new goal is top 10 in Canada for 2024. 
-
 **Future project ideas:**
 - My main area of interest is security, although at my proficiency writing custom security software is outside my wheelhouse, but it's definitely something I'll be looking into in the future, maybe automating some of my workflow for CTFs and writing reports?
 - Start automating more of my daily life, the deeper I delve into automation the more I realize I'm doing things that I could just automate.
